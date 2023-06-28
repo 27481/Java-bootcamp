@@ -1,0 +1,10 @@
+java is completely OOPs based where we use psvm inside every class to write codes and also we use static keyword so that  we dont have to  make a variable of class dataType to use the methods of the class 
+
+
+In Java, the main method serves as the entry point for the program, and it is typically defined inside a class. The psvm shorthand is commonly used to refer to the public static void main(String[] args) method.
+
+
+By using the static keyword in the main method, 
+you don't need to create an instance of the class to call the main method or access other static members of the class. This is because static members belong to the class itself, rather than specific instances of the class.
+
+

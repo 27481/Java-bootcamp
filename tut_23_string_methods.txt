@@ -1,0 +1,27 @@
+ Java supports some method of string
+
+     //! which we can use to find the length of the string,Converting to lowercase etc
+     
+      Some of the commonly used String methods are 
+       String name = "utkarsh";
+       
+       1> name.length() = Returns a new string which has all the lowercase characters 
+          from the string name 
+
+       2> name.tolowerCase() -> Returns a new String which has all the lowercase Character
+          from the string name 
+
+       3> name.toupperCasse() -> Returns new sTring hich has all the lowerCase characters 
+          from the string name 
+
+       4> name.trim() -> Returns a new String after removing spaces
+       
+       5> name.substring(int start, int end) -> 
+                                                Return a substring from Start index to the end index 
+                                                Start index is included and end is excluded
+
+       6> name.replace('', ' ') -> It replaces the char element 
+       7> name.replace(" ", " ") -> It replaces the character element 
+       8> name.startsWith("") -> return true or false
+       9> name.charAt() -> return element of the targeted index
+      10> 

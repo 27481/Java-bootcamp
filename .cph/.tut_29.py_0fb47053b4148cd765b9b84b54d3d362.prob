@@ -1,0 +1,1 @@
+{"name":"Local: tut_29","url":"/home/geek/Desktop/JAVA/tut_29.py","tests":[{"id":1687361949198,"input":"3\n1\n6\n4\n1 2 3 12\n3\n6 5 4","output":"1\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/geek/Desktop/JAVA/tut_29.py","group":"local","local":true}
